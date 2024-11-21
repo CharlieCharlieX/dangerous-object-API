@@ -1,0 +1,5 @@
+azure-storage-blob
+python-multipart  
+uvicorn  
+fastapi
+opencv-python
